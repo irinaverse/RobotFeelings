@@ -1,7 +1,10 @@
-## Art is Vacation for the Soul
-Extraordinary stuff in "Robot feelings" and (my feelings) after 2 job interviews in tech companies:
+## Art is a prediction function
+Artists live somehow in the future. Extraordinary stuff in "Robot feelings" and (my feelings) after 2 job interviews in tech companies:
 
 - the word $robot$ is a newcomer to the English language
-- conversation from the 1920 play R.U.R. or Rossum's Universal Robots
+- origin word is in Slavic language, $robota$
+- dialogue from the 1920 play Rossum's Universal Robots
+- the play begins in a factory that makes artificial people, called roboti (robots)
+- after two job interviews in tech companies, I just start to feel the factory for artificial people
 - abstract ideas and the things after the Physics
 - work in progress...
