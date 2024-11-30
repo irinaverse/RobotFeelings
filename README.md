@@ -7,4 +7,6 @@ Extraordinary stuff in "Robot feelings" and (my feelings) after 2 job interviews
 - the play begins in a factory that makes artificial people, called roboti (robots)
 - after two job interviews in global tech companies, I just start to feel the factory for artificial people
 - abstract ideas and the things after the Physics
-- one of my favourite work (in progress)...
+- work in progress...
+
+<p align = "right"> Click the file name above to read the document. </p>
