@@ -1,5 +1,5 @@
-## Art is a prediction function
-Artists live somehow in the future. Extraordinary stuff in "Robot feelings" and (my feelings) after 2 job interviews in tech companies:
+## Art is a prediction function. Artists live somehow in the future.
+Extraordinary stuff in "Robot feelings" and (my feelings) after 2 job interviews in tech companies:
 
 - the word $robot$ is a newcomer to the English language
 - origin word is in Slavic language, $robota$
