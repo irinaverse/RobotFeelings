@@ -6,7 +6,7 @@ Extraordinary stuff in "Robot feelings" and (my feelings) after 2 job interviews
 - dialogue from the 1920 play "Rossum's Universal Robots"
 - the play begins in a factory that makes artificial people, called roboti (robots)
 - after two job interviews in global tech companies, I just start to feel the factory for artificial people
-- abstract ideas and the things after the Physics
+- the things after the Physics
 - work in progress...
 
 <p align = "right"> Click the file name above to read the document. </p>
