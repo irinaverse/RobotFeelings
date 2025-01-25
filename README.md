@@ -13,5 +13,3 @@ More extraordinary stuff in my document "Robot feelings":
 - after two job interviews in global tech companies, I started feeling the factory for artificial people
 - the things after the Physics
 - work in progress...
-
-<p align = "right"> Click the file name above to read the document. </p>
