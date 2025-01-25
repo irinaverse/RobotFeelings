@@ -11,5 +11,6 @@ More extraordinary stuff in my document "Robot feelings":
 - dialogue from the 1920 play "Rossum's Universal Robots"
 - the play begins in a factory that makes artificial people, called $roboti$ (robots)
 - after two job interviews in global tech companies, I started feeling the factory for artificial people
-- the things after the Physics
+- the things after the physics
+- metaphysics is significant to humans as we deal with things about which we wonder
 - work in progress...
