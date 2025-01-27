@@ -5,7 +5,7 @@
 *Seated* *Nude* was painted in 1910 by Pablo Picasso and displays a female figure nearly stripped completely of her human form. Instead represented as angular and mechanistic, she retains her pose with a geometric play of light. Critics of the time saw this early cubism as an attempt to show a new world reality in a scientific way. 
 <br/><br/>
 
-More extraordinary stuff in my document "Robot feelings":
+More extraordinary stuff in my document *Robot* *feelings*:
 
 - the word $robot$ is a newcomer to the English language
 - origin word is in Slavic language, $robota$
