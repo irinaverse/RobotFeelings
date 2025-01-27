@@ -1,7 +1,6 @@
 ## Art is a prediction function. Artists live somehow in the future.
 
 <img align="right" src="https://github.com/user-attachments/assets/2dcca4ae-d2c0-4d6b-8e69-48325039e071" width="370" height="480">
-<br/>
 
 *Seated* *Nude* was painted in 1910 by Pablo Picasso and displays a female figure nearly stripped completely of her human form. Instead represented as angular and mechanistic, she retains her pose with a geometric play of light. Critics of the time saw this early cubism as an attempt to show a new world reality in a scientific way. 
 <br/><br/>
